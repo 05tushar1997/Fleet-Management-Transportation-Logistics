@@ -50,4 +50,4 @@ The dashboard features a variety of visualizations to help users understand and 
 - **Slicers:** Enable users to filter data dynamically based on month, fleet type, delivery status, and trip classification.
 <img width="692" alt="Screenshot (596)" src="https://github.com/05tushar1997/Fleet-Management-Transportation-Logistics/assets/161101934/fd381c90-04ee-43ef-b913-e3e10a4656b2">
 
-## THNAK YOU!   
+## THANK YOU!   
